@@ -1,0 +1,32 @@
+Исходное слово | Перевод | Количество упоминаний
+Графон | Graphics | 1
+Слить | Download illegally / Pirate | 1
+Торренты | Torrents | 1
+Вирусняк | Virus | 1
+Трекеры | Trackers | 1
+Палюбасу | For sure / Definitely | 1
+Компуктер | Computer | 1
+Скидку | Discount | 1
+Стиме  /  ЕГС | Steam / Epic Games Store | 1
+Жаба давит | To feel stingy / To be cheap | 1
+Качать | To download | 2
+Диск | Disc / Physical copy | 1
+Крэшнется | Will crash | 1
+PSN | PlayStation Network | 1
+Заценю | To check out | 1
+Инди | Indie | 1
+Шутан | Shooter game | 1
+Тема | Thing / Taste | 1
+Движ | Thing / Vibe | 1
+Замутил | Set up | 1
+Го | Let's go | 1
+Пиратки | Pirated versions | 1
+Легально | Legally | 1
+Кооп | Coop | 1
+Ок, бро | Ok, bro | 1
+Покеда | Bye / See ya | 1
+Чао | Ciao / Bye | 1
+онлайн | online | 1
+офлайн | offline | 1
+сервер | server | 1
+And | | 4
