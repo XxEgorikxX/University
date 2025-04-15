@@ -1,0 +1,87 @@
+Исходное слово | Перевод | Количество упоминаний
+и | And | 4
+, | None | 4
+да | yes | 4
+он | He | 3
+мочь | be able | 3
+найти | find | 3
+сейчас | Now | 3
+только | only | 3
+уже | already | 3
+есть | There is | 2
+просто | Just | 2
+я | I | 2
+не | Not | 2
+но | But | 2
+че | that | 2
+то | That | 2
+архив | archive | 2
+скинуть | throw off | 2
+так | So | 2
+снова | again | 2
+пройти | pass | 2
+что | What | 2
+понять | understand | 2
+даров | harvest | 1
+просьба | request | 1
+небольшой | small | 1
+у | in | 1
+тя | she | 1
+файл | file | 1
+яз | spring | 1
+оставаться | stay | 1
+же | same | 1
+заблокать | block | 1
+де | also | 1
+скачать | download | 1
+себя | myself | 1
+установщик | installer | 1
+прям | straight | 1
+сам | alone | 1
+последний | last | 1
+билд | build | 1
+качать | sway | 1
+там | there | 1
+быть | be | 1
+баг | team | 1
+тдтп | tdtp | 1
+попробовать | try | 1
+тот | That | 1
+юз | hundred | 1
+который | which | 1
+пользоваться | to use | 1
+тут | here | 1
+хз | I don't know | 1
+как | How | 1
+норма | norm | 1
+заработать | earn | 1
+или | or | 1
+нет | No | 1
+тогда | Then | 1
+кидать | throw | 1
+другой | another | 1
+сябкий | shabky | 1
+скорее | quicker | 1
+весь | all | 1
+мой | my | 1
+настройка | setting | 1
+ещё | more | 1
+остаться | stay | 1
+нез | not | 1
+а | A | 1
+вдруг | suddenly | 1
+захотеть | want to | 1
+? | None | 1
+авыз | mouth | 1
+иметь | have | 1
+ввиду | in view of | 1
+за | for | 1
+игра | game | 1
+в | V | 1
+энимал | animal | 1
+кросинга | crossover | 1
+всё | All | 1
+таки | anyway | 1
+хотеть | want | 1
+зельда | Zelda | 1
+) | None | 1
